@@ -1,10 +1,8 @@
-module example.com/m
+module github.com/Vineeth-BekalWork/bookstores_users-api
 
 go 1.17
 
 require (
-	github.com/federicoleon/bookstore_oauth-go v0.0.0-20191115215057-d6e9e471b4ef
-	github.com/federicoleon/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/go-playground/locales v0.14.0 // indirect
